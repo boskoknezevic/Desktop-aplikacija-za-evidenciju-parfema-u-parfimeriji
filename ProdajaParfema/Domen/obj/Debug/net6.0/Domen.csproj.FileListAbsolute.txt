@@ -1,0 +1,12 @@
+C:\Users\bosko\source\repos\ProdajaParfema\Domen\obj\Debug\net6.0\Domen.csproj.AssemblyReference.cache
+C:\Users\bosko\source\repos\ProdajaParfema\Domen\obj\Debug\net6.0\Domen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bosko\source\repos\ProdajaParfema\Domen\obj\Debug\net6.0\Domen.AssemblyInfoInputs.cache
+C:\Users\bosko\source\repos\ProdajaParfema\Domen\obj\Debug\net6.0\Domen.AssemblyInfo.cs
+C:\Users\bosko\source\repos\ProdajaParfema\Domen\obj\Debug\net6.0\Domen.csproj.CoreCompileInputs.cache
+C:\Users\bosko\source\repos\ProdajaParfema\Domen\bin\Debug\net6.0\Domen.deps.json
+C:\Users\bosko\source\repos\ProdajaParfema\Domen\bin\Debug\net6.0\Domen.dll
+C:\Users\bosko\source\repos\ProdajaParfema\Domen\bin\Debug\net6.0\Domen.pdb
+C:\Users\bosko\source\repos\ProdajaParfema\Domen\obj\Debug\net6.0\Domen.dll
+C:\Users\bosko\source\repos\ProdajaParfema\Domen\obj\Debug\net6.0\refint\Domen.dll
+C:\Users\bosko\source\repos\ProdajaParfema\Domen\obj\Debug\net6.0\Domen.pdb
+C:\Users\bosko\source\repos\ProdajaParfema\Domen\obj\Debug\net6.0\ref\Domen.dll

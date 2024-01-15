@@ -1,0 +1,17 @@
+C:\Users\bosko\source\repos\ProdajaParfema\BazaPodataka\obj\Debug\net6.0\BazaPodataka.csproj.AssemblyReference.cache
+C:\Users\bosko\source\repos\ProdajaParfema\BazaPodataka\obj\Debug\net6.0\BazaPodataka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bosko\source\repos\ProdajaParfema\BazaPodataka\obj\Debug\net6.0\BazaPodataka.AssemblyInfoInputs.cache
+C:\Users\bosko\source\repos\ProdajaParfema\BazaPodataka\obj\Debug\net6.0\BazaPodataka.AssemblyInfo.cs
+C:\Users\bosko\source\repos\ProdajaParfema\BazaPodataka\obj\Debug\net6.0\BazaPodataka.csproj.CoreCompileInputs.cache
+C:\Users\bosko\source\repos\ProdajaParfema\BazaPodataka\bin\Debug\net6.0\BazaPodataka.deps.json
+C:\Users\bosko\source\repos\ProdajaParfema\BazaPodataka\bin\Debug\net6.0\BazaPodataka.runtimeconfig.json
+C:\Users\bosko\source\repos\ProdajaParfema\BazaPodataka\bin\Debug\net6.0\BazaPodataka.dll
+C:\Users\bosko\source\repos\ProdajaParfema\BazaPodataka\bin\Debug\net6.0\BazaPodataka.pdb
+C:\Users\bosko\source\repos\ProdajaParfema\BazaPodataka\bin\Debug\net6.0\Domen.dll
+C:\Users\bosko\source\repos\ProdajaParfema\BazaPodataka\bin\Debug\net6.0\Domen.pdb
+C:\Users\bosko\source\repos\ProdajaParfema\BazaPodataka\obj\Debug\net6.0\BazaPodataka.csproj.CopyComplete
+C:\Users\bosko\source\repos\ProdajaParfema\BazaPodataka\obj\Debug\net6.0\BazaPodataka.dll
+C:\Users\bosko\source\repos\ProdajaParfema\BazaPodataka\obj\Debug\net6.0\refint\BazaPodataka.dll
+C:\Users\bosko\source\repos\ProdajaParfema\BazaPodataka\obj\Debug\net6.0\BazaPodataka.pdb
+C:\Users\bosko\source\repos\ProdajaParfema\BazaPodataka\obj\Debug\net6.0\BazaPodataka.genruntimeconfig.cache
+C:\Users\bosko\source\repos\ProdajaParfema\BazaPodataka\obj\Debug\net6.0\ref\BazaPodataka.dll
